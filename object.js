@@ -13,3 +13,5 @@ console.log(person);
 //Bracket notation is used when it is not known ahead of time what method in an object/property is to be accessed. e.g:
 const targetMember= 'name';// supposing targetMember is an input field on a form. Whatever the user types in that field, is what will be accessed from the person object
 person[targetMember.value]='John';
+person.name;
+

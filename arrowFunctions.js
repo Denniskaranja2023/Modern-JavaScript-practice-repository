@@ -2,7 +2,7 @@
     //return number*number;
 //}
 
-const square = number =>  number*number;// Modern Javascript way. Where there are more than one parameter, they are enclosed in paranthesis deparated by comma. For no parameters, paranthesis are lsft blank. 
+const square = number =>  number*number;// Modern Javascript way. Where there are more than one parameter, they are enclosed in paranthesis deparated by comma. For no parameters, paranthesis are left blank. 
 console.log(square(5.7));
 
 //practical example
